@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
+=======
+C:/Users/willi/OneDrive/Documentos/4. filter=lfs diff=lfs merge=lfs -text
+/Store_Sales/data/train.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> ea3eae9 (primeiro)
+Store_Sales/data/train.csv filter=lfs diff=lfs merge=lfs -text
