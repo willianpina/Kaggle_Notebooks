@@ -1,0 +1,19 @@
+
+Store Sales - Time Series Forecasting/.gitattributes
+Store Sales - Time Series Forecasting/data/holidays_events.csv
+Store Sales - Time Series Forecasting/data/oil.csv
+Store Sales - Time Series Forecasting/data/sample_submission.csv
+Store Sales - Time Series Forecasting/data/stores.csv
+Store Sales - Time Series Forecasting/data/test.csv
+Store Sales - Time Series Forecasting/data/train.csv
+Store Sales - Time Series Forecasting/data/transactions.csv
+Store Sales - Time Series Forecasting/Store Sales - Time Series Forecasting.ipynb
+Store_Sales_Time_Series_Forecasting/.gitattributes
+Store_Sales_Time_Series_Forecasting/data/holidays_events.csv
+Store_Sales_Time_Series_Forecasting/data/oil.csv
+Store_Sales_Time_Series_Forecasting/data/sample_submission.csv
+Store_Sales_Time_Series_Forecasting/data/stores.csv
+Store_Sales_Time_Series_Forecasting/data/test.csv
+Store_Sales_Time_Series_Forecasting/data/train.csv
+Store_Sales_Time_Series_Forecasting/data/transactions.csv
+Store_Sales_Time_Series_Forecasting/Store Sales - Time Series Forecasting.ipynb
